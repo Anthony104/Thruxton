@@ -1,0 +1,11 @@
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\bin\Debug\Bikes Mock Exam.exe.config
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\bin\Debug\bikes.mdf
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\bin\Debug\bikes_log.ldf
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\bin\Debug\Bikes Mock Exam.exe
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\bin\Debug\Bikes Mock Exam.pdb
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\obj\Debug\Bikes Mock Exam.csprojResolveAssemblyReference.cache
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\obj\Debug\Bikes_Mock_Exam.Properties.Resources.resources
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\obj\Debug\Bikes Mock Exam.csproj.GenerateResource.Cache
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\obj\Debug\Bikes Mock Exam.exe
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\obj\Debug\Bikes Mock Exam.pdb
+F:\Anthony\C#\Bikes Mock Exam\Bikes Mock Exam\obj\Debug\Bikes_Mock_Exam.frmBikes.resources
